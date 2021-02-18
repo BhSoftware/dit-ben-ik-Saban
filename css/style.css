@@ -37,8 +37,8 @@ article{
 	text-align: center;
 	width: 600px;
 	height: 200px;;
-	border: 3px solid black;
-	margin-left: 500px;
+	border-bottom: 3px solid black;
+	margin-left: 480px;
 	margin-top: 50px;
 }
 
@@ -48,15 +48,7 @@ article p{
 }
 
 section{
-	width: 400px;
-	margin-left: 570px;
+	width: 780px;
+	margin-left: 440px;
 	margin-top: 5em;
 }
-
-img{
-	width: 250px;
-	float: right;
-	margin-right: 150px;
-	margin-top: 1.5px;
-}
-
