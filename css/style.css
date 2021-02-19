@@ -4,6 +4,10 @@
 	font-family: 'Arial';
 }
 
+img{
+	float: left;
+}
+
 body{
 	background-color: #DCDCDC;
 }
@@ -11,6 +15,29 @@ body{
 h1{
 	text-align: center;
 	margin-top: 25px;
+	font-family: 'Lucida Sans';
+	text-align: center;
+	margin-top: 25px;
+	margin-left: 600px;
+	border: 3px solid #1E90FF;
+	width: 200px;
+}
+
+h2{
+	font-family: 'Lucida Sans';
+	border: 3px solid green;
+	width: 60px;	
+}
+
+h3{
+	border: 3px solid darkgreen;
+	width: 490px;
+	margin-left: 214px;
+}
+
+#h2tje{
+	width: 410px;
+	border: 3px solid red;
 }
 
 ul{
@@ -48,7 +75,22 @@ article p{
 }
 
 section{
+
 	width: 780px;
 	margin-left: 440px;
 	margin-top: 5em;
+	width: 800px;
+	margin-left: 440px;
+	margin-top: 3em;
 }
+
+.future{
+	margin-left: 220px;
+
+}
+
+.faculties{
+	list-style: outside;
+}
+
+
